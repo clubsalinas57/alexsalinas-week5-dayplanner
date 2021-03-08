@@ -120,9 +120,8 @@ function GetCurrentHour(pFormat)  //formats time from ParseHour
     var time = moment().format(pFormat).toLowerCase();
     //current HOUR and MINUTES
     console.log(time);
-
-    var hour = 2;
-    // FAKE SETTING HOUR /var hour = parseHour(time); 
+    
+    var hour = parseHour(time); 
     // current HOUR 
 
     if(time[time.length - 2] === "p")
