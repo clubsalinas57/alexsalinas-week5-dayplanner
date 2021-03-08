@@ -36,4 +36,4 @@ I am a novice in the Javasript world, so I invited all to add any new or advance
 
 Alex Salinas - alexmsalinas@gmail.com
 
-Project Link: 
+Project Link: https://clubsalinas57.github.io/alexsalinas-week5-dayplanner/
