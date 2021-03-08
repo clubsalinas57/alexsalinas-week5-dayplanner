@@ -17,7 +17,7 @@ This application is a semi-failed attempt at a day scheduler
 
 
 ### Screen Shot
-
+https://raw.githubusercontent.com/clubsalinas57/alexsalinas-week5-dayplanner/main/Screen%20Shot%202021-03-08%20at%202.40.39%20AM.png
 
 <!-- CONTRIBUTING -->
 ### Contributing
